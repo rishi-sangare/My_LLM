@@ -1,6 +1,3 @@
-Here's a well-structured and formatted README.md file for your project:
-
-```markdown
 # LLM from Scratch
 
 This project demonstrates how to create a Large Language Model (LLM) from scratch using Python. It includes steps to set up the environment, preprocess data, train the model, and run a chatbot.
@@ -95,6 +92,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 Feel free to contribute to this project by opening issues or submitting pull requests.
 
 Happy coding!
-```
-
-This README.md file provides clear instructions and is neatly formatted to help users understand and follow the steps necessary to set up, preprocess data, train the model, and run the chatbot.
