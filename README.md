@@ -8,7 +8,6 @@ This project demonstrates how to create a Large Language Model (LLM) from scratc
 - [Preprocessing](#preprocessing)
 - [Training](#training)
 - [Chatbot](#chatbot)
-- [License](#license)
 
 ## Installation
 
@@ -82,12 +81,6 @@ We are using the OpenWebText dataset. You can find the dataset on Hugging Face:
     ```sh
     python chatbot.py -batch_size 32
     ```
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
 
 Feel free to contribute to this project by opening issues or submitting pull requests.
 
